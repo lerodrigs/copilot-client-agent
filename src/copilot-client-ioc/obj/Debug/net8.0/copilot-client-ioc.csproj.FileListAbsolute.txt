@@ -1,0 +1,11 @@
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/bin/Debug/net8.0/copilot-client-ioc.deps.json
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/bin/Debug/net8.0/copilot-client-ioc.dll
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/bin/Debug/net8.0/copilot-client-ioc.pdb
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/copilot-client-ioc.GeneratedMSBuildEditorConfig.editorconfig
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/copilot-client-ioc.AssemblyInfoInputs.cache
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/copilot-client-ioc.AssemblyInfo.cs
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/copilot-client-ioc.csproj.CoreCompileInputs.cache
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/copilot-client-ioc.dll
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/refint/copilot-client-ioc.dll
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/copilot-client-ioc.pdb
+/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-ioc/obj/Debug/net8.0/ref/copilot-client-ioc.dll

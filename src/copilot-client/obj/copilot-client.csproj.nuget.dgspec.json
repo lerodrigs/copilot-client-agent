@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client/copilot-client.csproj": {}
+  },
+  "projects": {
+    "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-services/copilot-client-services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-services/copilot-client-services.csproj",
+        "projectName": "copilot-client-services",
+        "projectPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-services/copilot-client-services.csproj",
+        "packagesPath": "/home/madlerovisk/.nuget/packages/",
+        "outputPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/madlerovisk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/copilot-client-shared.csproj": {
+                "projectPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/copilot-client-shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/copilot-client-shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/copilot-client-shared.csproj",
+        "projectName": "copilot-client-shared",
+        "projectPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/copilot-client-shared.csproj",
+        "packagesPath": "/home/madlerovisk/.nuget/packages/",
+        "outputPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/madlerovisk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Agents.CopilotStudio.Client": {
+              "target": "Package",
+              "version": "[1.1.151, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Identity.Client.Extensions.Msal": {
+              "target": "Package",
+              "version": "[4.74.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client/copilot-client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client/copilot-client.csproj",
+        "projectName": "copilot-client",
+        "projectPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client/copilot-client.csproj",
+        "packagesPath": "/home/madlerovisk/.nuget/packages/",
+        "outputPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/madlerovisk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-services/copilot-client-services.csproj": {
+                "projectPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-services/copilot-client-services.csproj"
+              },
+              "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/copilot-client-shared.csproj": {
+                "projectPath": "/home/madlerovisk/development/repositories/copilot-client-agent/copilot-client-shared/copilot-client-shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
